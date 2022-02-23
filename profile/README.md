@@ -15,4 +15,5 @@ It's too hard to be part of two or more ecosystems like Ethereum, Solana and Nea
 That's why we developed the cross-chain liquidity aggregator and NFT cross-chain selling feature for GameFi.
 
 Join our community to build a Mastercard for Web3!
+
 https://discord.gg/AAPJcDVSq2
