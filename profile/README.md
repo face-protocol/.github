@@ -1,22 +1,14 @@
-<p align="center"><a href="https://via.exchange" target="_blank"><img alt="Via Protocol is the most advanced cross-chain aggregation protocol" src="https://user-images.githubusercontent.com/55061526/171150406-91b883e0-4f37-4a35-adfa-647ff9ae2a99.jpeg" width="100%">
-</a>
-</p>
-
-
-
-[![Via Router](https://img.shields.io/badge/Via%20Router-Operates-green)](https://router.via.exchange)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
----
-
 ### Hey ✌️!
-
-We at VIA are trying to solve one of the most critical problems in Web3, in your opinion, the bad cross-chain experience. 
-It's too hard to be part of two or more ecosystems like Ethereum, Solana and Near.
-
-**New users don't need to deal with DEX and bridging!**
-
-That's why we developed the [cross-chain liquidity aggregator](https://router.via.exchange) 
-
-[Join our community](https://discord.gg/AAPJcDVSq2)!
+## **Problem**:
+It is not possible to use real-world reputation in DeFi. 
+## **Solution**:
+The Reputation Protocol, along with the SBT token, verifies your membership in a real-world closed community and assesses your reputation within that community. It enables you to borrow money based on your reputation. Community members can enhance your reputation, and there are financial incentives for giving reputation to others. The token is specifically designed to safeguard against sybil attacks.
+## **Examples of Use:**
+1. Demonstrate status by being a member of a web2 community and possessing an SBT that provides exclusive opportunities. If approved, it will be shown alongside your profile on social networks like in Twitter and LinkedIn.
+2. Utilize status to gain privileges. Many projects will seek to invite individuals with a specific status to utilize their services.
+3. Verify status without revealing personal information. Anonymous founders can verify their education and past statuses at an address without disclosing personal details. (Note: The community determines the data required for verification when submitting an application. Some communities may require verification of platforms like LinkedIn, which may involve de-anonymization. However, users can decide whether to join such communities.)
+For instance, founder Blur could verify being an alumnus of Standard and YCombinator.
+4. Leverage the community as guarantors to secure more favorable loan terms. Implement your own credit protocol that offers loans with reduced collateral requirements, supplemented by additional collateral from guarantors. This would come with slightly higher interest rates, allowing guarantors to earn more.
+5. By providing someone with reputation, they can use it as collateral and risk losing it if liquidated (similar to real life). In other words, you can grant a DAO the voting rights to whitelist protocols that, with your consent, can access your reputation (money). As a starting point, consider reaching an agreement with Gearbox to accept reputation as collateral.
 
 
